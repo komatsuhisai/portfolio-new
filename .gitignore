@@ -1,1 +1,4 @@
 venv/
+.env
+mysite/.env
+mysite/prod_settings.py
